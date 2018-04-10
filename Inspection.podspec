@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "Inspection"
   s.version          = "1.0.0"
-  s.summary          = "All new design. Inspect your iOS application at runtime."
+  s.summary          = "Debug accessory tool for iOS."
   s.homepage         = "https://meniny.cn/"
   # s.screenshots      = "https://github.com/Meniny/Inspection/"
   s.license          = 'MIT'
